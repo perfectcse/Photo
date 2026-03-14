@@ -19,4 +19,5 @@ This project is a React-based Photo Gallery application built using **React, Vit
 - JavaScript (ES6)
 - LocalStorage API
 
+photo
 
